@@ -4,77 +4,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_snc_volcano_loan" element="NULL" name="x_snc_volcano_loan" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dbfd7d8b137f9600d191b9b76144b06c</list_id>
+            <list_id display_value="x_snc_volcano_loan" element="NULL" name="x_snc_volcano_loan" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ef43464f137f9600d191b9b76144b0db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>spencer.beemiller</sys_created_by>
-            <sys_created_on>2016-06-08 16:28:04</sys_created_on>
-            <sys_id>13fd7d8b137f9600d191b9b76144b06d</sys_id>
+            <sys_created_on>2016-06-08 16:51:18</sys_created_on>
+            <sys_id>2743464f137f9600d191b9b76144b0dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>spencer.beemiller</sys_updated_by>
-            <sys_updated_on>2016-06-08 16:28:04</sys_updated_on>
+            <sys_updated_on>2016-06-08 16:51:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_snc_volcano_loan" element="NULL" name="x_snc_volcano_loan" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dbfd7d8b137f9600d191b9b76144b06c</list_id>
+            <list_id display_value="x_snc_volcano_loan" element="NULL" name="x_snc_volcano_loan" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ef43464f137f9600d191b9b76144b0db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>spencer.beemiller</sys_created_by>
-            <sys_created_on>2016-06-08 16:28:04</sys_created_on>
-            <sys_id>a3fd7d8b137f9600d191b9b76144b06d</sys_id>
+            <sys_created_on>2016-06-08 16:51:18</sys_created_on>
+            <sys_id>a743464f137f9600d191b9b76144b0dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>spencer.beemiller</sys_updated_by>
-            <sys_updated_on>2016-06-08 16:28:04</sys_updated_on>
+            <sys_updated_on>2016-06-08 16:51:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_created_on</element>
-            <list_id display_value="x_snc_volcano_loan" element="NULL" name="x_snc_volcano_loan" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dbfd7d8b137f9600d191b9b76144b06c</list_id>
+            <element>short_description</element>
+            <list_id display_value="x_snc_volcano_loan" element="NULL" name="x_snc_volcano_loan" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ef43464f137f9600d191b9b76144b0db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>spencer.beemiller</sys_created_by>
-            <sys_created_on>2016-06-08 16:28:04</sys_created_on>
-            <sys_id>27fd7d8b137f9600d191b9b76144b06d</sys_id>
+            <sys_created_on>2016-06-08 16:51:18</sys_created_on>
+            <sys_id>2b43464f137f9600d191b9b76144b0dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>spencer.beemiller</sys_updated_by>
-            <sys_updated_on>2016-06-08 16:28:04</sys_updated_on>
+            <sys_updated_on>2016-06-08 16:51:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>effective_date</element>
-            <list_id display_value="x_snc_volcano_loan" element="NULL" name="x_snc_volcano_loan" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dbfd7d8b137f9600d191b9b76144b06c</list_id>
+            <element>customer</element>
+            <list_id display_value="x_snc_volcano_loan" element="NULL" name="x_snc_volcano_loan" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ef43464f137f9600d191b9b76144b0db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>spencer.beemiller</sys_created_by>
-            <sys_created_on>2016-06-08 16:28:04</sys_created_on>
-            <sys_id>a7fd7d8b137f9600d191b9b76144b06d</sys_id>
+            <sys_created_on>2016-06-08 16:51:18</sys_created_on>
+            <sys_id>ab43464f137f9600d191b9b76144b0dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>spencer.beemiller</sys_updated_by>
-            <sys_updated_on>2016-06-08 16:28:04</sys_updated_on>
+            <sys_updated_on>2016-06-08 16:51:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>short_description</element>
-            <list_id display_value="x_snc_volcano_loan" element="NULL" name="x_snc_volcano_loan" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dbfd7d8b137f9600d191b9b76144b06c</list_id>
+            <element>effective_date</element>
+            <list_id display_value="x_snc_volcano_loan" element="NULL" name="x_snc_volcano_loan" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ef43464f137f9600d191b9b76144b0db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>spencer.beemiller</sys_created_by>
-            <sys_created_on>2016-06-08 16:28:04</sys_created_on>
-            <sys_id>2bfd7d8b137f9600d191b9b76144b06d</sys_id>
+            <sys_created_on>2016-06-08 16:51:18</sys_created_on>
+            <sys_id>2f43464f137f9600d191b9b76144b0dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>spencer.beemiller</sys_updated_by>
-            <sys_updated_on>2016-06-08 16:28:04</sys_updated_on>
+            <sys_updated_on>2016-06-08 16:51:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_snc_volcano_loan" element="NULL" name="x_snc_volcano_loan" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ef43464f137f9600d191b9b76144b0db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>spencer.beemiller</sys_created_by>
+            <sys_created_on>2016-06-08 16:51:18</sys_created_on>
+            <sys_id>af43464f137f9600d191b9b76144b0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>spencer.beemiller</sys_updated_by>
+            <sys_updated_on>2016-06-08 16:51:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -88,11 +103,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>spencer.beemiller</sys_created_by>
-            <sys_created_on>2016-06-08 16:28:04</sys_created_on>
+            <sys_created_on>2016-06-08 16:51:18</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>dbfd7d8b137f9600d191b9b76144b06c</sys_id>
+            <sys_id>ef43464f137f9600d191b9b76144b0db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_volcano_loan</sys_name>
             <sys_package display_value="Volcano Insurance" source="x_snc_volcano">37b7750b137f9600d191b9b76144b0ea</sys_package>
@@ -101,7 +116,7 @@
             <sys_scope display_value="Volcano Insurance">37b7750b137f9600d191b9b76144b0ea</sys_scope>
             <sys_update_name>sys_ui_list_x_snc_volcano_loan_null</sys_update_name>
             <sys_updated_by>spencer.beemiller</sys_updated_by>
-            <sys_updated_on>2016-06-08 16:28:04</sys_updated_on>
+            <sys_updated_on>2016-06-08 16:51:18</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Loan" max_length="40" name="x_snc_volcano_loan" type="collection">
+    <element audit="true" label="Loan" max_length="40" name="x_snc_volcano_loan" type="collection">
+        <element dynamic_creation="true" label="Customer" max_length="32" name="customer" reference="core_company" type="reference"/>
         <element label="Effective Date" max_length="40" name="effective_date" type="glide_date"/>
+        <element label="Loan Owner" max_length="32" name="loan_owner" reference="sys_user" type="reference"/>
         <element display="true" label="Name" max_length="40" name="name" type="string"/>
         <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Property" max_length="4000" name="property" reference="cmn_location" type="glide_list"/>
         <element label="Short Description" max_length="160" name="short_description" type="string"/>
+        <element choice="3" label="Stage" max_length="40" name="stage" type="integer">
+            <choice>
+                <element label="Draft" sequence="0" value="-5"/>
+            </choice>
+        </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="loan_owner"/>
+        </index>
+        <index name="index2">
+            <element name="customer"/>
+        </index>
     </element>
 </database>
