@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Loan Work" max_length="40" name="x_snc_volcano_loan_work" type="collection">
+        <element label="Loan" max_length="32" name="loan" reference="x_snc_volcano_loan" type="reference"/>
+    </element>
+</database>
